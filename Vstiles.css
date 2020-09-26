@@ -1,0 +1,74 @@
+#titulo{
+    font-family: fantasy;
+    color: red;
+    font-size: 97px;
+    margin-top: 0cm;
+    text-align: center;
+}
+
+#top{
+    width: 500px;
+    height: 100px;
+    color: gray;
+}
+
+.boton{
+    margin: 2px;
+    border-bottom-color: grey;
+    border-bottom: solid;
+}
+.text{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 30px;
+    shape-margin: 1;
+}
+.form{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+#img{
+    background-repeat:no-repeat ;
+    background-position: center;
+}
+.img{
+    border-image-width: 15px;
+    width: 300px;
+    height: 475px;
+    border-image: space;
+}
+.img2{
+    border-image-width: 15px;
+    width: 750px;
+    height: 475px;
+    border-image: top ;
+}
+#TPoster{
+    font: fantasy;
+    color: blueviolet;
+    font-size: 115px;
+    border-top: 0px;
+    text-align: Center;
+
+}
+#BackC{
+    background-color: gray;
+    color: solid;
+}
+.center{
+ text-align: center;
+ font-family: Helvetica;
+ font-size: 25px;
+}
+.bajo{
+    text-align: center;
+    color: green;
+}
+.error{
+    text-align: center;
+    color: red;
+}
+#used{
+    margin-top:50px;
+}
